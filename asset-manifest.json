@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Nazisg/coffee.git/static/css/main.d237d436.css",
+    "main.js": "/Nazisg/coffee.git/static/js/main.3615207b.js",
+    "static/media/q.png": "/Nazisg/coffee.git/static/media/q.e607b7d060e78744db20.png",
+    "static/media/bakcground2.jpg": "/Nazisg/coffee.git/static/media/bakcground2.c90c6a4d7085077b6e64.jpg",
+    "static/media/PlayfairDisplay-Regular.otf": "/Nazisg/coffee.git/static/media/PlayfairDisplay-Regular.fe9bc23c0eedd6602115.otf",
+    "static/media/bakcground1.jpg": "/Nazisg/coffee.git/static/media/bakcground1.c80daa37add141ed6983.jpg",
+    "static/media/bg.jpg": "/Nazisg/coffee.git/static/media/bg.c4b1b9c9f66a1ef63632.jpg",
+    "static/media/bg_01.png": "/Nazisg/coffee.git/static/media/bg_01.6991b654ac11f23a643d.png",
+    "static/media/DessertScript.otf": "/Nazisg/coffee.git/static/media/DessertScript.429ede4d793747a7d1fd.otf",
+    "static/media/Belwe Medium.otf": "/Nazisg/coffee.git/static/media/Belwe Medium.fbf37f33618f83241f61.otf",
+    "static/media/img4.jpg": "/Nazisg/coffee.git/static/media/img4.ca021aa905da3445e96f.jpg",
+    "static/media/AvantGardeI.otf": "/Nazisg/coffee.git/static/media/AvantGardeI.62c3f681236a782b0aa2.otf",
+    "static/media/img5.jpg": "/Nazisg/coffee.git/static/media/img5.20bf7ea45eeb7b5319e3.jpg",
+    "static/media/img2.jpg": "/Nazisg/coffee.git/static/media/img2.45a6d45c856c2cdc1609.jpg",
+    "static/media/img1.jpg": "/Nazisg/coffee.git/static/media/img1.693427af2ad8b9e33446.jpg",
+    "static/media/coffee2.png": "/Nazisg/coffee.git/static/media/coffee2.c6737818dc63edbdec05.png",
+    "static/media/logo.svg": "/Nazisg/coffee.git/static/media/logo.76baa358255cd151e7ae73a6c1628dca.svg",
+    "static/media/slick.svg": "/Nazisg/coffee.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Nazisg/coffee.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Nazisg/coffee.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Nazisg/coffee.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Nazisg/coffee.git/index.html",
+    "static/media/cart3.svg": "/Nazisg/coffee.git/static/media/cart3.a06bb0ad577e94ba7a2e7b3156061a54.svg",
+    "static/media/person.svg": "/Nazisg/coffee.git/static/media/person.57d3f43eabf757e8af6c563d8c9ecfb4.svg",
+    "main.d237d436.css.map": "/Nazisg/coffee.git/static/css/main.d237d436.css.map",
+    "main.3615207b.js.map": "/Nazisg/coffee.git/static/js/main.3615207b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d237d436.css",
+    "static/js/main.3615207b.js"
+  ]
+}
